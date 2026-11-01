@@ -40,7 +40,7 @@ I'm passionate about building practical software solutions, backend systems, and
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZorawarSinghSandhu&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZorawarSinghSandhu&show_icons=true&show=contributions&hide_border=true)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ZorawarSinghSandhu&layout=compact&hide_border=true)
 
