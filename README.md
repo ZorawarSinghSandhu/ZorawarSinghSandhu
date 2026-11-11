@@ -40,7 +40,61 @@ I'm passionate about building practical software solutions, backend systems, and
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZorawarSinghSandhu&show_icons=true&show=contributions&hide_border=true)
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <i>A snapshot of my development activity and open-source journey.</i>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./assets/overview.dark.svg">
+  <img alt="GitHub Overview"
+       src="./assets/overview.light.svg"
+       width="100%">
+</picture>
+
+<h3 align="center">🔥 Contribution Activity</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./assets/contributions.dark.svg">
+  <img alt="GitHub Contributions"
+       src="./assets/contributions.light.svg"
+       width="100%">
+</picture>
+
+<h3 align="center">📈 Contribution Momentum</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./assets/momentum.dark.svg">
+  <img alt="Contribution Momentum"
+       src="./assets/momentum.light.svg"
+       width="100%">
+</picture>
+
+<h3 align="center">💻 Language Distribution</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./assets/languages.dark.svg">
+  <img alt="Programming Language Distribution"
+       src="./assets/languages.light.svg"
+       width="100%">
+</picture>
+
+<h3 align="center">🚀 Repository Activity</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="./assets/repositories.dark.svg">
+  <img alt="Repository Rankings"
+       src="./assets/repositories.light.svg"
+       width="100%">
+</picture>
+
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ZorawarSinghSandhu&layout=compact&hide_border=true)
 
