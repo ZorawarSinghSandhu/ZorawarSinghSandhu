@@ -38,9 +38,6 @@ I'm passionate about building practical software solutions, backend systems, and
 
 ---
 
-## 📊 GitHub Statistics
-
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -94,9 +91,6 @@ I'm passionate about building practical software solutions, backend systems, and
        src="./assets/repositories.light.svg"
        width="100%">
 </picture>
-
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ZorawarSinghSandhu&layout=compact&hide_border=true)
 
 ---
 
