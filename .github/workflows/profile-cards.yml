@@ -1,0 +1,32 @@
+
+name: Update GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: ZorawarSinghSandhu
+
+          cards: overview,contributions,momentum,languages,repositories
+
+          output-dir: assets
+          themes: light,dark
+          palette: blue
+          font: Roboto
+          commit: true
